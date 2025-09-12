@@ -1,6 +1,5 @@
 """
 Artificial Intelligence – Assignment 3
-Submission Deadline - 05/09/2025
 --------------------------------------
 
 Topic: Chess AI with Minimax (Alpha-Beta) and Evaluation Function
@@ -228,4 +227,5 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+
 
